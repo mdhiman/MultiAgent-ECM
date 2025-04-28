@@ -1,0 +1,27 @@
+### Change Proposal: CR002 – Update Production Process for Gasket P1002
+
+#### Change Request Summary:
+This proposal outlines the necessary updates to the manufacturing process of gasket P1002. The main change includes the introduction of a thermal treatment step to improve the product's durability and performance. The change aims to meet evolving production requirements while maintaining minimal disruption to the production schedule.
+
+#### Proposed Changes:
+- **Addition of Thermal Treatment**: Integrate a thermal treatment process step into the existing manufacturing workflow.
+- **Schedule Update**: Update production timelines to accommodate the thermal treatment.
+- **Employee Training**: Conduct specialized training for production staff to adapt to the new process.
+  
+#### Key Details:
+- **Implementation Date**: 02-Apr-2025
+- **Requested By**: Jane Smith (Production)
+- **Impact Areas**: Manufacturing process, production schedule
+- **Cost Estimate**: $3,000
+- **Approval Status**: Approved
+
+#### Impact Assessment:
+- **Production Schedule Impact**: Minimal disruption anticipated.
+- **Risk Level**: Medium (implementation); Low (long-term performance).
+- **Stakeholders Involved**: 
+  - Jane Smith (Production)
+  - Alex Turner (Supplier)
+
+#### Justification:
+The change is necessary to enhance gasket performance and align with updated production standards. The addition of the thermal treatment step is expected to result in higher product quality with minimal impact on delivery timelines.
+

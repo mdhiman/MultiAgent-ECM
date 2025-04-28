@@ -1,0 +1,9 @@
+[project]
+name = "multiagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"  # Python 3.13 is not officially released; corrected to >=3.10
+dependencies = [
+    "semantic-kernel",
+]

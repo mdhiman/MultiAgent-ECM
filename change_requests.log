@@ -1,0 +1,2 @@
+CR001,Design Change,P1001,Bracket,1,1.1,Change material from Aluminum to Steel for increased strength,01-04-2025,John Doe,Engineering,Structural Integrity,5000,15-05-2025,High,Medium,Pending,John Doe (Engineering); Jane Smith (Production); Mark Brown (Quality),Requires testing for fatigue resistance
+CR002,Process Change,P1002,Gasket,2,2.1,Update production process to include thermal treatment,02-04-2025,Jane Smith,Production,Manufacturing Process,3000,25-04-2025,Medium,Low,Approved,Jane Smith (Production); Alex Turner (Supplier),Impact on production schedule minimal

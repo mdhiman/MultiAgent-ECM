@@ -1,0 +1,39 @@
+**Change Request Summary (CR001)**  
+**Title:** Design Change – Material Upgrade for Bracket (P1001)  
+**Objective:** Enhance structural integrity by changing the material of the bracket from Aluminum to Steel.  
+
+---
+
+### **Proposed Changes:**
+- Change the **material** of Bracket P1001 from **Aluminum** to **Steel** to increase strength and durability.
+- **Implementation Date:** 01-04-2025  
+- **Impact Areas:** 
+  - Engineering Design
+  - Production Process Modifications
+  - Quality Testing for Fatigue Resistance  
+
+---
+
+### **Key Details:**
+- **Rationale:** Steel provides higher structural integrity and fatigue resistance compared to Aluminum. This change aims to address performance concerns in high-stress applications.  
+- **Budget Estimate:** $5000  
+- **Priority:** High  
+- **Risk Level:** Medium (due to production and testing updates)  
+- **Testing Required:** Fatigue resistance testing to ensure compliance with operational standards.  
+
+---
+
+### **Stakeholders Involved:**  
+- **Engineering Team Lead:** John Doe (Primary)  
+- **Production Specialist:** Jane Smith  
+- **Quality Assurance Manager:** Mark Brown  
+
+---
+
+### **Implementation Timeline:**  
+- Requested Approval: **15-05-2025**  
+- Implementation Start: **01-04-2025**  
+
+### **Recommendation:**  
+Approval of this change is recommended due to its high impact on product performance and minimal risk once testing is adequately completed.  
+
